@@ -1,3 +1,6 @@
 # Daily Learning
 ## Morning Planning
-## Review
+#### Review
+##### Daily Learning
+###### Morning Planning
+####### Review
